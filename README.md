@@ -1,7 +1,8 @@
-<img src="https://res.cloudinary.com/dfu6hbwya/image/upload/v1733054475/crcrypt/wl8yirxtbncjeqnccbcy.png" 
-     alt="CRCRYPT Banner" 
-     width="30%" 
-     style="display: block; margin-left: auto; margin-right: auto;">
+<p align="center">
+  <img src="https://res.cloudinary.com/dfu6hbwya/image/upload/v1733054475/crcrypt/wl8yirxtbncjeqnccbcy.png" 
+       alt="CRCRYPT Banner" 
+       width="30%">
+</p>
 
 ## 🔐 CRCRYPT
     
@@ -59,7 +60,7 @@ crcrypt
 
 ## 😊 DEMO
 
-<img src="https://github.com/creasydude/crcrypt/blob/master/demo.gif?raw=true" width="100%">
+<img src="https://github.com/creasydude/crcrypt/blob/main/demo.gif?raw=true" width="100%">
 
 ## 💰 Support the Project
 
