@@ -1,0 +1,33 @@
+{
+  "name": "crcrypt",
+  "version": "1.0.0",
+  "description": "CRCRYPT is a lightweight and efficient text encryption and decryption tool, utilizing the AES algorithm for secure and fast cryptographic operations.",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "crcrypt": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "cli",
+    "tool",
+    "crypto"
+  ],
+  "author": "Mohammad Hosein Roustaie (CreasY)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/creasydude/crcrypt.git"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^7.1.0",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "crypto": "^1.0.1"
+  }
+}
