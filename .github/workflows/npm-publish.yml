@@ -19,8 +19,8 @@ jobs:
       - name: Install dependencies by npm
         run: npm install
 
-      - name: Run the package
-        run: npm start
+      - name: Bump version
+        run: npm version patch
 
       - name: Publish to NPM
         run: npm publish --access public
