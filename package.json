@@ -1,6 +1,6 @@
 {
   "name": "crcrypt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CRCRYPT is a lightweight and efficient text encryption and decryption tool, utilizing the AES algorithm for secure and fast cryptographic operations.",
   "main": "src/index.js",
   "type": "module",
