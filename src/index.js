@@ -17,7 +17,7 @@ import chalk from "chalk";
 
 class EncryptionApp {
     constructor() {
-        this.configPath = 'config';
+        this.configPath = '.crcryptConfig';
         this.configFile = 'config.json';
         this.settings = {
             algorithm: null,

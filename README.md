@@ -5,7 +5,7 @@
 </p>
 
 ## 🔐 CRCRYPT
-    
+
 **Lightweight & Efficient Text Encryption Tool**
 
 ## 🌟 Overview
@@ -31,29 +31,44 @@ CRCRYPT is a powerful, lightweight text encryption and decryption tool that leve
 ## 🚀 Usage
 
 ### One-Time Run
+
 ```bash
 npx crcrypt
 ```
 
 ### Global Installation (Requires Node.js)
+
 ```bash
 npm install -g crcrypt
 
 ```
+
 Then run
+
 ```bash
 crcrypt
 ```
+
 [![npm version](https://badge.fury.io/js/crcrypt.svg?icon=si%3Anpm)](https://badge.fury.io/js/crcrypt)
+
+## ⚙️ Config Location
+
+The config file is located in :
+
+```
+ /<username>/.crcryptConfig/config.json
+```
 
 ## 📝 Encryption Process
 
 ### Encrypting
+
 1. Provide your data text
 2. Set a secure password
 3. Receive encrypted text
 
 ### Decrypting
+
 1. Input the encrypted text
 2. Enter the original password
 3. Retrieve the original data text
@@ -67,6 +82,7 @@ crcrypt
 Help continue the development of CRCRYPT:
 
 ### Cryptocurrency Donations
+
 - **EVM**: `0x54Daf8377f714dbF6aB874A9A4A12716385033c1`
 - **SOLANA**: `FjhaNZxuKbPh9Ms5YnrYkawM54grGpudSmNeRVFwA51P`
 - **TON**: `UQClozQ06Qoh--yXV4VZPl2jRx94tdnre2FGHxU-YrdxJbDM`
@@ -74,6 +90,7 @@ Help continue the development of CRCRYPT:
 ## 📄 License
 
 This project is licensed under the ISC License - see the LICENSE file for details.
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please see our contributing guidelines for more details.
